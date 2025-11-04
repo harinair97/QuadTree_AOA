@@ -1,0 +1,1 @@
+This project implements image compression using QuadTree decomposition. A QuadTree recursively divides an image into four quadrants until each region is homogeneous enough (based on a variance threshold).
